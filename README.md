@@ -1,3 +1,3 @@
 # Password-Genretor
 
-🍁 **Generate the random password of your desired length size**
+🍁 **Generate a random password of your desired length size**
